@@ -38,3 +38,10 @@ hs_err_*.log
 replay_*.log
 *.hprof
 *.jfr
+
+#CMD
+*.bat
+*.cmd
+*.sh
+*.ps1
+*.py
